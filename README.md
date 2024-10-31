@@ -29,7 +29,7 @@ Python >=3.7, <3.9 is required. Python 2 is not supported. Virtual environments 
 
 To install, first clone the GitHub repository:
 
-`git clone https://github.com/InstituteforDiseaseModeling/synthpops.git`
+`git clone https://github.com/Salvelop07/SynthPops.git`
 
 Then install via:
 
